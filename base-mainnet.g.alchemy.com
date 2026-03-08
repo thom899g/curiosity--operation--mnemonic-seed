@@ -1,0 +1,4 @@
+BASE_NODE_WS_URL=wss://base-mainnet.g.alchemy.com/v2/YOUR_KEY
+FIREBASE_CONFIG_PATH=firebase-config.json
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token
+TELEGRAM_CHAT_ID=your_telegram_chat_id
